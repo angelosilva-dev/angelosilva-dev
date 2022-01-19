@@ -12,6 +12,9 @@
    - REACT JS
    - MYSQL
    - PHP
+      - CakePHP
+      - Laravel
+   - Linux(Terminal)
 
 - 📫 Entre em contato comigo: 
     <div>
