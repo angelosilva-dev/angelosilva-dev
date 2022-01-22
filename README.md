@@ -1,5 +1,5 @@
 ## Olá, me chamo Angelo Silva ! 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil no GitHub 👋
 - 🔭 Atualmente, trabalho como analista de sistemas na Citel Software, empresa com sede em Ribeirão Preto - SP, no qual atuo desde janeiro de 2015.
 - 🌱 Nas minhas horas livres, dedico meu tempo nos estudos de desenvolvimento Web front-end.
 - 🤔  Ferramentas e linguagens: 
