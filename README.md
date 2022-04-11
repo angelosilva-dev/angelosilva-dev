@@ -12,10 +12,10 @@
 
 - 📫 Entre em contato comigo:
       <br>
-      <a href="https://instagram.com/angelosilva__" target="_blank">
+      <a href="https://instagram.com/dev_angelosilva" target="_blank">
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
       </a>
-      <a href = "mailto:angelocds88@gmail.com">
+      <a href = "mailto:contato@angelosilvadev.com.br">
          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
       </a>
       <a href="https://www.linkedin.com/in/angelosilvadevweb" target="_blank">
